@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://testoatlas.de/sitemap.xml
